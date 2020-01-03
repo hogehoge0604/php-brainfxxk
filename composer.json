@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Operation\\": "Operation/",
+      "Values\\": "Values/",
+      "Brainfxxk\\": "Brainfxxk/",
+      "Exceptions\\": "Exceptions/",
+      "Converter\\": "Converter/"
+    }
+  }
+}
